@@ -1,3 +1,5 @@
+# This interface will be turned graphical and updated along the way
+
 class Account:
     def __init__(self,acc_owner,_balance):
         self.acc_owner = acc_owner
